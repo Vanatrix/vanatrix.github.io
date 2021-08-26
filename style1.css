@@ -64,7 +64,7 @@ img{
 	grid-area: showcase;
 	min-height: 500px;
 	min-width: 50vw;
-	background: url(me3.jpg);
+	background: url("/assets/main-background.jpg");
 	background-size: cover;
 	background-position: center;
 	padding: 50px;
